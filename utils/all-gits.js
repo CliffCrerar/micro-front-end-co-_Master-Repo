@@ -11,26 +11,16 @@ const gitForEachMessage = [
   "git push",
 ].join(comSep);
 
-const gitCommitPushMainRepo = [
-  'git add --all',
-  `git commit -m '${message}'`,
-  "git push",
-].join(comSep);
-
-console.log('gitCommitPushMainRepo: ', gitCommitPushMainRepo);
-
-console.log("gitForEachMessage: ", gitForEachMessage);
-
 const spawnOpts = { cwd: process.cwd(), stdio: "inherit", detached: true };
 
 try {
-  // let execSub = cp.spawn(
-  //   "git",
-  //   ["submodule", "foreach", gitForEachMessage],
-  //   spawnOpts
-  // );
-  //
-  const sub = cp.execSync(gitCommitPushMainRepo,spawnOpts);
+  let execSub = cp.spawn(
+    "git",
+    ["submodule", "foreach", gitForEachMessage],
+    spawnOpts
+  );
+  
+  const sub = cp.execSync(gitForEachMessage,spawnOpts);
   console.log('sub: ', sub);
 
 } catch (err) {
