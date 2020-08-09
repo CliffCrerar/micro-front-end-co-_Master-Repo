@@ -1,12 +1,16 @@
 [submodule "navbar"]
 	path = navbar
 	url = ./navbar
+	branch = master
 [submodule "page-one"]
 	path = page-one
 	url = ./page-one
+	branch = master
 [submodule "page-two"]
 	path = page-two
 	url = ./page-two
+	branch = master
 [submodule "root-config"]
 	path = root-config
 	url = ./root-config
+	branch = master
