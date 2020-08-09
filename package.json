@@ -2,11 +2,14 @@
   "name": "microfront-end-demo",
   "version": "1.0.0",
   "description": "---",
-  "main": "index.js",
+  "main": "dist/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "node index"
+    "commit": "node utils/all-gits.js",
+    "start": "webpack --watch --config=webpack.server.js --mode=development",
+    "build": "webpack --config=webpack.server.js --mode=production"
   },
+  "bin": "./node_modules/.bin",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CliffCrerar/micro-front-end-co-_Master-Repo.git"
@@ -17,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/CliffCrerar/micro-front-end-co-_Master-Repo/issues"
   },
-  "homepage": "https://github.com/CliffCrerar/micro-front-end-co-_Master-Repo#readme"
+  "homepage": "https://github.com/CliffCrerar/micro-front-end-co-_Master-Repo#readme",
+  "dependencies": {
+    "aws-sdk": "^2.729.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-merge": "^5.1.1",
+    "webpack-node-externals": "^2.5.1"
+  }
 }

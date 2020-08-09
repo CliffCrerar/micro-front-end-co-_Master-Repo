@@ -1,0 +1,122 @@
+[
+    {
+        "Key": "@micro-front-end-co/navbar/c47fc00d6392500646c570b395e8b4df529de346/micro-front-end-co-navbar.js",
+        "LastModified": "2020-08-09T07:32:46.000Z",
+        "ETag": "\"2cedaa901bf600b0552db07e921e626b\"",
+        "Size": 35581,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/navbar/c47fc00d6392500646c570b395e8b4df529de346/micro-front-end-co-navbar.js.map",
+        "LastModified": "2020-08-09T07:32:46.000Z",
+        "ETag": "\"adf2885226435bddf065a82267283a8c\"",
+        "Size": 170885,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/page-one/d26c9cab9737c9b5f2ba0b7d961b32aca023e851/micro-front-end-co-page-one.js",
+        "LastModified": "2020-08-09T07:32:05.000Z",
+        "ETag": "\"15febd8c8131924cb7134aa7e62f8c2c\"",
+        "Size": 11934,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/page-one/d26c9cab9737c9b5f2ba0b7d961b32aca023e851/micro-front-end-co-page-one.js.map",
+        "LastModified": "2020-08-09T07:32:05.000Z",
+        "ETag": "\"ba7f26b84301f4fa0ab3c2c6d523313c\"",
+        "Size": 37592,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/page-two/989695fd814cc580569ded43339150a428d5136b/micro-front-end-co-page-two.js",
+        "LastModified": "2020-08-09T07:31:22.000Z",
+        "ETag": "\"57f316e08996b9dbf97544c90d2463be\"",
+        "Size": 11934,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/page-two/989695fd814cc580569ded43339150a428d5136b/micro-front-end-co-page-two.js.map",
+        "LastModified": "2020-08-09T07:31:22.000Z",
+        "ETag": "\"59423ac0da6dd802a344b9a017e4691f\"",
+        "Size": 37592,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/ba2eba96dca3469654ee3c2c906e367f102a6055/index.html",
+        "LastModified": "2020-08-09T04:50:51.000Z",
+        "ETag": "\"938bae49fb7e98a003a4dc3ca725709a\"",
+        "Size": 2010,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/ba2eba96dca3469654ee3c2c906e367f102a6055/micro-front-end-co-root-config.js",
+        "LastModified": "2020-08-09T04:50:51.000Z",
+        "ETag": "\"fbfc12ef13aaa1bc7aebb85f1b8db32e\"",
+        "Size": 2115,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/ba2eba96dca3469654ee3c2c906e367f102a6055/micro-front-end-co-root-config.js.map",
+        "LastModified": "2020-08-09T04:50:51.000Z",
+        "ETag": "\"4ff83f024c1d84f45cf2e730b873c201\"",
+        "Size": 7255,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/c7603db8408a6887aef6ddbbee771243889f649d/index.html",
+        "LastModified": "2020-08-09T07:20:02.000Z",
+        "ETag": "\"938bae49fb7e98a003a4dc3ca725709a\"",
+        "Size": 2010,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/c7603db8408a6887aef6ddbbee771243889f649d/micro-front-end-co-root-config.js",
+        "LastModified": "2020-08-09T07:20:02.000Z",
+        "ETag": "\"fbfc12ef13aaa1bc7aebb85f1b8db32e\"",
+        "Size": 2115,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    },
+    {
+        "Key": "@micro-front-end-co/root-config/c7603db8408a6887aef6ddbbee771243889f649d/micro-front-end-co-root-config.js.map",
+        "LastModified": "2020-08-09T07:20:02.000Z",
+        "ETag": "\"4ff83f024c1d84f45cf2e730b873c201\"",
+        "Size": 7255,
+        "StorageClass": "STANDARD",
+        "Owner": {
+            "ID": "cc9f2fcee84e02aa30c46c5503d2c3b12ba7e8d8d58702c0b34717a29fcf03b8"
+        }
+    }
+]
