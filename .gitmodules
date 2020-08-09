@@ -1,0 +1,12 @@
+[submodule "navbar"]
+	path = navbar
+	url = ./navbar
+[submodule "page-one"]
+	path = page-one
+	url = ./page-one
+[submodule "page-two"]
+	path = page-two
+	url = ./page-two
+[submodule "root-config"]
+	path = root-config
+	url = ./root-config
