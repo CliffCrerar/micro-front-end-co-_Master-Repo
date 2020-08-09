@@ -2,16 +2,16 @@ language: node_js
 node_js:
   - node
 script:
-  - yarn build
+  - npm build
   - echo "Commit sha - $TRAVIS_COMMIT"
-  - mkdir -p dist/@thawkin3/root-config/$TRAVIS_COMMIT
-  - mv dist/*.* dist/@thawkin3/root-config/$TRAVIS_COMMIT/
+  - mkdir -p dist/micro-front-end-co/root-config/$TRAVIS_COMMIT
+  - mv dist/*.* dist/micro-front-end-co/root-config/$TRAVIS_COMMIT/
 deploy:
   provider: s3
   access_key_id: "$AWS_ACCESS_KEY_ID"
   secret_access_key: "$AWS_SECRET_ACCESS_KEY"
-  bucket: "single-spa-demo"
-  region: "us-west-2"
+  bucket: "micro-front.softwarecraft.co.za"
+  region: "eu-west-2"
   cache-control: "max-age=31536000"
   acl: "public_read"
   local_dir: dist
