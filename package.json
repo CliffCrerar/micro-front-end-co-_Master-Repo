@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/CliffCrerar/micro-front-end-co-_Master-Repo#readme",
   "dependencies": {
-    "aws-sdk": "^2.729.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
